@@ -12,7 +12,7 @@ All apps in this repository were initially implemented back in March of 2019 usi
 ### WeatherApp
 WeatherApp allows the users to search for any city and view its current weather forecast.
 
-**NOTE:** WeatherApp requires OpenWeatherMap API key with "Current Weather Data" capabilities to work properly. You can genenrate one for yourself on [OpenWeatherMap web page](https://openweathermap.org/api). It should be inserted into `WeaterApp/utils/api.js` file as `appID`.
+**NOTE:** WeatherApp requires OpenWeatherMap API key with "Current Weather Data" capabilities to work properly. You can genenrate one for yourself on [OpenWeatherMap web page](https://openweathermap.org/api). It should be inserted into `WeatherApp/utils/api.js` file as `appID`.
 
 ### TimerApp
 TimerApp is a time-tracking app in which user can add, delete and modify various timers. Each timer correspond to a different task that the user would like to keep time for
