@@ -1,4 +1,4 @@
-const appID = '198cad16bbc70a81dae4498382d65b96';
+const appID = ''; // < INSERT OpenWeatherMap API KEY HERE
 const unitsType = 'metric';
 
 export const fetchWeather = async city => {
