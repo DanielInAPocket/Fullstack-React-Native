@@ -2,7 +2,8 @@ import React from 'react';
 
 import { StyleSheet, View, ScrollView, Text, KeyboardAvoidingView } from 'react-native';
 
-import uuidv4 from 'uuid/v4';
+import 'react-native-get-random-values'
+import { v4 as uuidv4 } from 'uuid';
 
 import EditableTimer from '../components/EditableTimer';
 import ToggleableTimerForm from '../components/ToggleableTimerForm';
